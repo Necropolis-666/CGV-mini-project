@@ -1,7 +1,7 @@
 # CGV-mini-project
 
 Topic:- 2D Car Racing Game
-Made by - Swastik Kar (1911086) and Mihir Pandya (1911094)
+Made by - Swastik Kar (1911086) and Mihir Pandya (1911098)
 Course: Computer Graphics and VIsualization
 
 This project is a game developed using PyGame.
